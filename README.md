@@ -1,1 +1,1 @@
-# Social-Media-Post-Scheduler
+# chartanalyst-ai
